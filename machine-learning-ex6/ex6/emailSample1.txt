@@ -1,0 +1,5 @@
+Hi There, 
+ 
+Inviting you to Kotlin Code Quest with JetBrains, a national level coding contest to showcase your programming skills completing with bright minds across India.
+ 
+The battleground has kicked off and is open until May 17, 2020! You get 2 hours to solve the problems.
